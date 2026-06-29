@@ -44,8 +44,10 @@ def report():
     })
 
 if __name__ == '__main__':
+    print('woah it works')
     app.run(
         host='0.0.0.0',
         port=int(os.environ.get('PORT', 8080)),
         debug=True
     )
+

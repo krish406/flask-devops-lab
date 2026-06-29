@@ -1,6 +1,6 @@
 # Flask Devops Lab
 ## Usage
-This project creates a web server using flask and deploys it in a docker container. It also uses best practices for git.
+This project creates a web server using flask and deploys it in a docker container. It also uses best practices for git. Create a merge conflict!!!!
 
 You must create a venv locally to use this application.
 

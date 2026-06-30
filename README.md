@@ -15,5 +15,13 @@ python app.py
 There are three different routes in this project
 
 /api/health
+
+Shows the health of the project
+
 /api/config
+
+Shows the project's configuration 
+
 /api/report
+
+Will contain reports related to the application
